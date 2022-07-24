@@ -1,5 +1,5 @@
 
-<p>
+<p  align ="center">
    <img src = "https://github.com/sravanDwadasi/sravanDwadasi/blob/main/2.svg" width = "400px"length ="1500px" >
 </p>
 
