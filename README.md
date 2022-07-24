@@ -26,7 +26,7 @@
 
 
 <p align = "center">
-   <img src = "https://github.com/sravanDwadasi/sravanDwadasi/blob/main/5.gif">
+   <img src = "https://github.com/sravanDwadasi/sravanDwadasi/blob/main/5.gif" width = "500px">
 </p>
           
 <h3 align="center"><code>Languages</code></h3>
