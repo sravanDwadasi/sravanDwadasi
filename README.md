@@ -1,8 +1,6 @@
 <a href="" target="_blank" rel="nofollow"><img align="right" alt="Sravan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="" target="_blank" rel="nofollow"><img align="right" alt="Sravan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="" target="_blank" rel="nofollow"><img align="right" alt="rvinds's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<p align = "center">
-   <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/hello.gif" width="500px" >
- </p> 
+
 
 
 <p align="center">
@@ -24,9 +22,7 @@
   </code>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvindkumar-prog&color=blueviolet" alt="arvindkumar-prog" />
-</p>
+
 
 
 <p align = "center">
