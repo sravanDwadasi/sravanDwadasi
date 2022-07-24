@@ -138,12 +138,12 @@
 
 
 <p align = "center">
-   <a href = "https://arvindkumar-prog.github.io/personal-website/">
-      <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/geek.gif" width="500px">
+   <a href >
+      <img src = "https://github.com/sravanDwadasi/sravanDwadasi/blob/main/6.gif">
  </a></p>
                                                                                                        
 <p align = "center">
-                   <code>Click This Image to view my journey</code>
+                   
           
                    
                      
