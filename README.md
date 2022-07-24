@@ -26,7 +26,7 @@
 
 
 <p align = "center">
-   <img src = "https://github.com/arvindkumar-prog/arvindkumar-prog/blob/main/logo.gif">
+   <img src = "https://github.com/sravanDwadasi/sravanDwadasi/blob/main/5.gif">
 </p>
           
 <h3 align="center"><code>Languages</code></h3>
